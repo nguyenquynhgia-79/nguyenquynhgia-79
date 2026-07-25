@@ -35,9 +35,6 @@
   <a href="https://github.com/nguyenquynhgia-79/gqn-ai-voiceover-subtitle-sync">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=nguyenquynhgia-79&repo=gqn-ai-voiceover-subtitle-sync&theme=radical&hide_border=true&bg_color=0D1117" alt="AI Voiceover Sync" width="48%"/>
   </a>
-  <a href="https://github.com/nguyenquynhgia-79/telegram-remote-dev-agent">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=nguyenquynhgia-79&repo=telegram-remote-dev-agent&theme=radical&hide_border=true&bg_color=0D1117" alt="Telegram Dev Agent" width="48%"/>
-  </a>
 </p>
 
 ### 📈 Thống Kê GitHub Của Mình
