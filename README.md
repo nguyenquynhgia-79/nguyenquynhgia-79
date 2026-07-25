@@ -8,6 +8,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/)
+[![Visitor Badge](https://komarev.com/ghpvc/?username=nguyenquynhgia-79&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/nguyenquynhgia-79)
 
 </div>
 
@@ -25,6 +26,17 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,python,html,css,git,github,docker,mysql,mongodb,vscode&perline=10" />
+  </a>
+</p>
+
+### 🚀 Dự Án Nổi Bật (Featured Projects)
+
+<p align="center">
+  <a href="https://github.com/nguyenquynhgia-79/gqn-ai-voiceover-subtitle-sync">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=nguyenquynhgia-79&repo=gqn-ai-voiceover-subtitle-sync&theme=radical&hide_border=true&bg_color=0D1117" alt="AI Voiceover Sync" width="48%"/>
+  </a>
+  <a href="https://github.com/nguyenquynhgia-79/telegram-remote-dev-agent">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=nguyenquynhgia-79&repo=telegram-remote-dev-agent&theme=radical&hide_border=true&bg_color=0D1117" alt="Telegram Dev Agent" width="48%"/>
   </a>
 </p>
 
