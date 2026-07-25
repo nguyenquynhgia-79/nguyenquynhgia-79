@@ -14,12 +14,16 @@
 
 ---
 
-### 👨‍💻 Về Bản Thân
+### 👨‍💻 Về Bản Thân (About Me)
 
-- 🔭 Hiện tại mình đang xây dựng các dự án công nghệ tuyệt vời.
-- 🌱 Mình đang tìm hiểu sâu hơn về Web Development và Automation.
-- 💬 Rất vui được thảo luận với bạn về mọi thứ liên quan đến code!
-- ⚡ Fun fact: Code chạy được chưa chắc đã đúng, không có lỗi chưa chắc đã chuẩn =))
+Chào bạn! Mình là một lập trình viên đam mê khám phá công nghệ mới và luôn khao khát xây dựng các giải pháp tự động hóa hữu ích. Mình đặc biệt hứng thú với việc phát triển ứng dụng tích hợp AI, Web Development và các công cụ giúp tối ưu hóa luồng công việc.
+
+- 🔭 **Đang tập trung:** Xây dựng các dự án liên quan đến AI (như công cụ đồng bộ giọng nói & phụ đề) và các bot tự động (Automation).
+- 🌱 **Đang học hỏi:** Tối ưu hóa kiến trúc hệ thống (System Architecture) và các công nghệ Web hiện đại nhất.
+- 👯 **Sẵn sàng hợp tác:** Mình luôn mở cửa chào đón các cơ hội tham gia dự án mã nguồn mở, đặc biệt là các tool tiện ích cho cộng đồng.
+- 💬 **Hãy hỏi mình về:** JavaScript/TypeScript, Python, NodeJS, React và cách để biến một ý tưởng thành sản phẩm thực tế!
+- 📫 **Cách liên hệ nhanh nhất:** Gửi tin nhắn cho mình qua LinkedIn hoặc Facebook ở các nút bấm phía trên nhé.
+- ⚡ **Fun fact:** Code chạy được thì chưa chắc đã đúng, mà không báo lỗi thì... càng đáng sợ hơn =))
 
 ### 🛠️ Kỹ Năng & Công Nghệ
 
