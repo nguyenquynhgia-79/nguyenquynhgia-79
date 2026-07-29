@@ -57,9 +57,9 @@
 ### ✍️ Bài Viết Mới Nhất
 
 <!-- START_SECTION:blog -->
+- [Bug Smash isn't glamorous and that's what I love about it.](https://dev.to/devteam/bug-smash-isnt-glamorous-and-thats-what-i-love-about-it-445i)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-257h)
 - [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-5ak2)
-- [Welcome Thread - v385](https://dev.to/devteam/welcome-thread-v385-5en1)
 <!-- END_SECTION:blog -->
 
 ---
