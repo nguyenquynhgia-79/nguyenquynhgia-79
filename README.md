@@ -57,9 +57,9 @@
 ### ✍️ Bài Viết Mới Nhất
 
 <!-- START_SECTION:blog -->
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1ed)
 - [Congrats to the DEV Weekend Challenge: Passion Edition Winners!](https://dev.to/devteam/congrats-to-the-dev-weekend-challenge-passion-edition-winners-30ne)
 - [Join our latest Frontend Challenge: Comfort Food Edition 🍲](https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0)
-- [Welcome Thread - v386](https://dev.to/devteam/welcome-thread-v386-3n78)
 <!-- END_SECTION:blog -->
 
 ---
