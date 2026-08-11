@@ -57,9 +57,9 @@
 ### ✍️ Bài Viết Mới Nhất
 
 <!-- START_SECTION:blog -->
+- [Hey all! I’m Jem, the DEV Community Program Coordinator](https://dev.to/devteam/hey-all-im-jem-the-dev-community-program-coordinator-2g2)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-3n23)
 - [Welcome Thread - v387](https://dev.to/devteam/welcome-thread-v387-1iej)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4pk2)
 <!-- END_SECTION:blog -->
 
 ---
