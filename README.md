@@ -57,9 +57,9 @@
 ### ✍️ Bài Viết Mới Nhất
 
 <!-- START_SECTION:blog -->
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4h3f)
 - [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-1330)
 - [Welcome Thread - v389](https://dev.to/devteam/welcome-thread-v389-onj)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5c26)
 <!-- END_SECTION:blog -->
 
 ---
