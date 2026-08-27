@@ -57,9 +57,9 @@
 ### ✍️ Bài Viết Mới Nhất
 
 <!-- START_SECTION:blog -->
+- [Introducing AI Disclosure on DEV: Tools for Nuance, Clarity, and Better Feeds](https://dev.to/devteam/introducing-ai-disclosure-on-dev-tools-for-nuance-clarity-and-better-feeds-34mk)
+- [Welcome Thread - v390](https://dev.to/devteam/welcome-thread-v390-1bic)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4h3f)
-- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-1330)
-- [Welcome Thread - v389](https://dev.to/devteam/welcome-thread-v389-onj)
 <!-- END_SECTION:blog -->
 
 ---
