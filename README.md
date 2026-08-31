@@ -57,9 +57,9 @@
 ### ✍️ Bài Viết Mới Nhất
 
 <!-- START_SECTION:blog -->
+- [What should the next Weekend Challenge theme be??](https://dev.to/devteam/what-should-the-next-weekend-challenge-theme-be-3mha)
 - [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-51oc)
 - [Introducing AI Disclosure on DEV: Tools for Nuance, Clarity, and Better Feeds](https://dev.to/devteam/introducing-ai-disclosure-on-dev-tools-for-nuance-clarity-and-better-feeds-34mk)
-- [Welcome Thread - v390](https://dev.to/devteam/welcome-thread-v390-1bic)
 <!-- END_SECTION:blog -->
 
 ---
