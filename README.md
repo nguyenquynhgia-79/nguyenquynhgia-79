@@ -57,9 +57,9 @@
 ### ✍️ Bài Viết Mới Nhất
 
 <!-- START_SECTION:blog -->
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2aic)
 - [Fixing Delicate Cache Mismatches in a Brownfield SPA: A Pragmatic Solution](https://dev.to/devteam/fixing-delicate-cache-mismatches-in-a-brownfield-spa-a-pragmatic-solution-dk9)
 - [What should the next Weekend Challenge theme be??](https://dev.to/devteam/what-should-the-next-weekend-challenge-theme-be-3mha)
-- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-51oc)
 <!-- END_SECTION:blog -->
 
 ---
