@@ -57,9 +57,9 @@
 ### ✍️ Bài Viết Mới Nhất
 
 <!-- START_SECTION:blog -->
+- [DEV Weekend Challenge: Dog Days Edition Winner Announcement Delayed](https://dev.to/devteam/dev-weekend-challenge-dog-days-edition-winner-announcement-delayed-36f0)
+- [Congrats to the Frontend Challenge: Comfort Food Edition Winners!](https://dev.to/devteam/congrats-to-the-frontend-challenge-comfort-food-edition-winners-1l8)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-40ma)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1mo8)
-- [Join our DEV Weekend Challenge: Generosity Edition! $1,000 in Prizes Across FIVE Winners. Submissions Due September 7 at 6:59 AM UTC.](https://dev.to/devteam/join-our-dev-weekend-challenge-generosity-edition-1000-in-prizes-across-five-winners-20en)
 <!-- END_SECTION:blog -->
 
 ---
