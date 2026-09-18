@@ -57,9 +57,9 @@
 ### ✍️ Bài Viết Mới Nhất
 
 <!-- START_SECTION:blog -->
+- [Congrats to the DEV Weekend Challenge: Dog Days Edition Winners!](https://dev.to/devteam/congrats-to-the-dev-weekend-challenge-dog-days-edition-winners-300g)
+- [A Quick Update on the Summer Bug Smash Winners](https://dev.to/devteam/a-quick-update-on-the-summer-bug-smash-winners-3021)
 - [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-272b)
-- [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-5amk)
-- [DEV Weekend Challenge: Dog Days Edition Winner Announcement Delayed](https://dev.to/devteam/dev-weekend-challenge-dog-days-edition-winner-announcement-delayed-36f0)
 <!-- END_SECTION:blog -->
 
 ---
