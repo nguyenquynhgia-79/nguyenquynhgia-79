@@ -57,9 +57,9 @@
 ### ✍️ Bài Viết Mới Nhất
 
 <!-- START_SECTION:blog -->
+- [Join the Kaggle Benchmarking Challenge: $2,500 in Prizes for FIVE Winners!](https://dev.to/devteam/join-the-kaggle-benchmarking-challenge-2500-in-prizes-for-five-winners-18ml)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2agl)
 - [Join the Sanity Challenge: $2,500 in prizes for FIVE winners!](https://dev.to/devteam/join-the-sanity-challenge-2500-in-prizes-for-five-winners-514m)
-- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-2hcb)
-- [Congrats to the DEV Weekend Challenge: Dog Days Edition Winners!](https://dev.to/devteam/congrats-to-the-dev-weekend-challenge-dog-days-edition-winners-300g)
 <!-- END_SECTION:blog -->
 
 ---
