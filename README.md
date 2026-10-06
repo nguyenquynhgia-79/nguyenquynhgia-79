@@ -57,9 +57,9 @@
 ### ✍️ Bài Viết Mới Nhất
 
 <!-- START_SECTION:blog -->
+- [Join the Hacktoberfest Open-Source AI Challenge: Touch Grass! $2,450 in Prizes Across 17 Winners.](https://dev.to/devteam/join-the-hacktoberfest-open-source-ai-challenge-week-1-touch-grass-2450-in-prizes-across-17-4pom)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4jli)
 - [Join the Hacktoberfest Weekend Challenge: Build for a Friend! $2,450 in Prizes Across 17 Winners. Submissions Due October 5 at 6:59 AM UTC.](https://dev.to/devteam/join-the-hacktoberfest-weekend-challenge-build-for-a-friend-2450-in-prizes-across-17-winners-1aj5)
-- [Congrats to the DEV Weekend Challenge: Generosity Edition Winners!](https://dev.to/devteam/congrats-to-the-dev-weekend-challenge-generosity-edition-winners-2mmg)
 <!-- END_SECTION:blog -->
 
 ---
