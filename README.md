@@ -57,9 +57,9 @@
 ### ✍️ Bài Viết Mới Nhất
 
 <!-- START_SECTION:blog -->
+- [Join the Hacktoberfest Open-Source AI Challenge: Ghost in the Machine! $2,850 in Prizes Across 21 Winners.](https://dev.to/devteam/join-the-hacktoberfest-open-source-ai-challenge-ghost-in-the-machine-2850-in-prizes-across-21-3cho)
 - [Congrats to the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle Winners!](https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-2-side-hustle-winners-2i33)
 - [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-4ipe)
-- [Congrats to the Sanity Challenge Winners!](https://dev.to/devteam/congrats-to-the-sanity-challenge-winners-1140)
 <!-- END_SECTION:blog -->
 
 ---
