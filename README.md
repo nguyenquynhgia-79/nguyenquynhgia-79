@@ -57,9 +57,9 @@
 ### ✍️ Bài Viết Mới Nhất
 
 <!-- START_SECTION:blog -->
-- [Congrats to the Kaggle Benchmarking Challenge Winners!](https://dev.to/devteam/congrats-to-the-kaggle-benchmarking-challenge-winners-2moh)
-- [Join the Presage SmartSpectra SDK Challenge: $3,000 in Prizes Across 10 Winners!](https://dev.to/devteam/join-the-presage-smartspectra-sdk-challenge-3000-in-prizes-across-10-winners-1370)
-- [That's a Wrap on Hacktoberfest 2026! 🎃👻](https://dev.to/devteam/thats-a-wrap-on-hacktoberfest-2026-148k)
+- [An Update on the Hacktoberfest Open-Source AI Challenge: Ghost in the Machine Winners](https://dev.to/devteam/an-update-on-the-hacktoberfest-open-source-ai-challenge-ghost-in-the-machine-winners-44bp)
+- [Congrats to October's MLH x DEV Writing Challenge Winner!](https://dev.to/devteam/congrats-to-octobers-mlh-x-dev-writing-challenge-winner-36a9)
+- [Want to make DEV your full-time job? We're hiring a Community Manager!](https://dev.to/devteam/want-to-make-dev-your-full-time-job-were-hiring-a-community-manager-4p1f)
 <!-- END_SECTION:blog -->
 
 ---
